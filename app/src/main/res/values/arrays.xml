@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="permission_list">
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.WRITE_EXTERNAL_STORAGE</item>
+        <item>android.permission.READ_EXTERNAL_STORAGE</item>
+        <item>android.permission.CAMERA</item>
+    </string-array>
+
+    <string-array name="view_way">
+        <item>일반</item>
+        <item>액자식</item>
+        <item>지그재그</item>
+    </string-array>
+
+    <string-array name="movie_type">
+        <item>영화</item>
+        <item>애니메이션</item>
+        <item>드라마</item>
+    </string-array>
+
+    <string-array name="movie_genre">
+        <item>드라마</item>
+        <item>액션</item>
+        <item>SF</item>
+        <item>코미디</item>
+        <item>판타지</item>
+        <item>스릴러</item>
+        <item>공포</item>
+    </string-array>
+
+    <string-array name="date_year">
+        <item>2014년</item>
+        <item>2015년</item>
+        <item>2016년</item>
+        <item>2017년</item>
+        <item>2018년</item>
+        <item>2019년</item>
+    </string-array>
+
+    <string-array name="date_month">
+        <item>1월</item>
+        <item>2월</item>
+        <item>3월</item>
+        <item>4월</item>
+        <item>5월</item>
+        <item>6월</item>
+        <item>7월</item>
+        <item>8월</item>
+        <item>9월</item>
+        <item>10월</item>
+        <item>11월</item>
+        <item>12월</item>
+    </string-array>
+
+</resources>
