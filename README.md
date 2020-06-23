@@ -25,7 +25,7 @@
 ## 사용 기술
   - Android
   - Room DB
-  - 
+  - Glide
 
 ## 라이센스
 MIT License  
